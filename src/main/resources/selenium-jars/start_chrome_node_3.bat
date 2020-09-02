@@ -1,0 +1,1 @@
+java -Dwebdriver.chrome.driver="C:\Users\susha\OneDrive\Desktop\JAVA-PROJECTS\qaa-demo-testng\src\main\resources\selenium-jars\chromedriver.exe" -jar selenium-server-standalone.jar -role webdriver -browser "browserName=chrome,version=85,maxinstance=5,platform=WINDOWS" -hub http://localhost:4444/grid/register -port 5566
